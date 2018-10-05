@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zgshopping:war">
+    <output-path>$PROJECT_DIR$/zgshopping/target</output-path>
+    <root id="archive" name="mmall.war">
+      <element id="artifact" artifact-name="zgshopping:war exploded" />
+    </root>
+  </artifact>
+</component>

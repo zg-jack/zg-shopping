@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/zg-shopping.iml" filepath="$PROJECT_DIR$/.idea/zg-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgservice/zgservice.iml" filepath="$PROJECT_DIR$/zgservice/zgservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgshopping/zgshopping.iml" filepath="$PROJECT_DIR$/zgshopping/zgshopping.iml" />
+    </modules>
+  </component>
+</project>
